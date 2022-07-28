@@ -59,14 +59,20 @@ Asian,http://cdn.adultiptv.net/asian.m3u8
 Shemale,https://www.ast.tv/stream/1/cellular.m3u8
 test,#genre#
 限制级电影1,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-限制级电影2,http://188.35.9.26:5031/udp/058j?streamType=livеhls
-限制级电影3,http://188.35.9.26:5031/udp/058j?streamType=livе
-限制级电影4,http://185.96.176.139:8080/superone/index.m3u8?streamType=live
 电影限制级<欧美>A,http://cdn.adultiptv.net/compilation.m3u8?streamType=live
-电影限制级<欧美B,>http://e01.plius.tv:64144/n216/index.m3u8?streamType=live
-电影限制级<欧美C,>http://185.96.176.139:8080/superone/index.m3u8?streamType=live
-电影恨制级<欧美D,>http://62.112.9.63:88/Brazzers/index.m3u8?token=test
-限制级电影5<欧美>,http://185.96.176.139:8080/superone/index.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
+k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+
 
 
 
