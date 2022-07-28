@@ -18,13 +18,12 @@ Pandora HD,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
 松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
 松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
 LOOK,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
-EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
-EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-AST TV,https://www.ast.tv/stream/1/cellular.m3u8
 粉红轮播_6868,#genre#
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
 二本道,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0431_full/1500kb/hls/index.m3u8
 欧美直播_6868,#genre#
+EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
+EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 livecams,http://cdn.adultiptv.net/livecams.m3u8 
 MILF,http://cdn.adultiptv.net/milf.m3u8 
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8 
@@ -50,6 +49,7 @@ Brunette,http://cdn.adultiptv.net/brunette.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8 
 Gay,http://cdn.adultiptv.net/gay.m3u8 
 Asian,http://cdn.adultiptv.net/asian.m3u8
+Shemale,https://www.ast.tv/stream/1/cellular.m3u8
 
 
 
