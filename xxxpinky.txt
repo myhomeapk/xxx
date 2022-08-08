@@ -56,7 +56,7 @@ AV3,https://video2.51daao.com/btt1/2020/10/20201022/wE1lXmMk/index.m3u8
 日韩无码3,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
 日韩无码4,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
 
-欧美直播_6868,#genre#
+👫｜欧美直播_6868,#genre#
 EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
 EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 livecams,http://cdn.adultiptv.net/livecams.m3u8 
