@@ -1,5 +1,5 @@
 粉红直播_6868,#genre#
-JSTAR极限电影台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
+
 e彩虹,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 e彩虹,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
 e彩虹,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
@@ -40,6 +40,7 @@ AV女王HD,P2p://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
 水多多HD,P2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
 火烈鸟,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
 午夜蓝,P2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+JSTAR极限电影台,mitv://ns2.hellotvvod.com:9906/26901ab1209b471d9fe6c50e145115cd
 
 粉红轮播_6868,#genre#
 一本道,http://video1.rhsj520.com:8091/nyrm3/20180105/3/050313-328/1500kb/hls/index.m3u8
