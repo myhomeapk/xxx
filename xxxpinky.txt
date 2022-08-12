@@ -1,5 +1,6 @@
 🎎 粉红直播_6868,#genre#
 JStar极限台,P2p://ns2.hellotvvod.com:9906/fb9ba07eefeb4914baced5605963b896
+JStar极限台,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815
 e彩虹,P2p://ns2.hellotvvod.com:9906/27fee1f489c64dfb8a387d2b40163340
 e彩虹,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
 e彩虹,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
@@ -8,18 +9,18 @@ e彩虹,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
 彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
-香蕉台,P2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+香蕉台1,P2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+香蕉台2,P2p://ns2.hellotvvod.com:9906/d42872d9b6864cab887a99d0aa46073b
 惊艳台HD,P2p://ns2.hellotvvod.com:9906/eb9593f2dcc049d9b5e2a41b6388bb25
 惊艳台HD,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
 惊艳台HD,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳电影,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815
 潘朵啦粉红,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
 潘朵啦粉红,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
 潘朵啦粉红,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 潘朵啦粉红,P2p://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
-潘朵啦玩美台,P2p://ns2.hellotvvod.com:9906/011e34da1ad148338c2fe0b80afcb50a
-潘朵啦玩美,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
+潘朵啦玩美,P2p://ns2.hellotvvod.com:9906/011e34da1ad148338c2fe0b80afcb50a
 潘朵啦玩美,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+潘朵啦玩美,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
 潘朵啦玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
 潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
 潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
@@ -37,7 +38,6 @@ Pandora HD,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
 松视3,P2p://ns2.hellotvvod.com:9906/bd093ee0f64f4857b8811bc60e10be0e
 松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
 松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
-香蕉台,P2p://ns2.hellotvvod.com:9906/d42872d9b6864cab887a99d0aa46073b
 Happy,P2p://ns2.hellotvvod.com:9906/194f0acc881446e5832815b8ecc4d267
 Happy,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
 Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
