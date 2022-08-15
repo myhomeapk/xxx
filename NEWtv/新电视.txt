@@ -857,7 +857,7 @@ LOOK,mitv://ns2.hellotvvod.com:9906/1d9b83fa670f4c9bb043303f0dd4baa0
 3#,https://video2.51daao.com/btt1/2021/02/20210224/E61AhMeH/index.m3u8
 4#,https://video2.51daao.com/btt1/2021/02/20210224/ymPaAsvE/index.m3u8
 5#,https://video2.51daao.com/btt1/2021/02/20210212/zWfTUXZt/index.m3u8
-Q群333546855,https://video2.51daao.com/btt1/2021/02/20210207/yfA19oxU/index.m3u8
+Q群,https://video2.51daao.com/btt1/2021/02/20210207/yfA19oxU/index.m3u8
 SWAG61部,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 天美傳媒29部,https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
 果凍傳媒35部,https://video2.51daao.com/btt1/2021/01/20210127/hP1ODvoI/index.m3u8
@@ -866,12 +866,12 @@ SWAG61部,https://video2.51daao.com/btt1/2020/09/20200930/DWR0uP5r/index.m3u8
 東熱720P32部,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0436/index.m3u8
 一本道720P50部,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/101315_170-1pon/index.m3u8
 HEYZO720P50部,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
-1Q群停止更新,https://video2.51daao.com/btt1/2021/01/20210124/vUoWLMKt/index.m3u8
-2Q群停止更新,https://video2.51daao.com/btt1/2021/02/20210207/WreGPEg7/index.m3u8
-3Q群停止更新,https://video2.51daao.com/btt1/2021/02/20210207/TYnvo7Nk/index.m3u8
-4Q群停止更新,https://video2.51daao.com/btt1/2021/01/20210129/d9ab6For/index.m3u8
-5Q群停止更新,https://video2.51daao.com/btt1/2021/01/20210129/f5Xha65H/index.m3u8
-6Q群長期更新,https://video2.51daao.com/btt1/2021/01/20210124/vUoWLMKt/index.m3u8
+1Q,https://video2.51daao.com/btt1/2021/01/20210124/vUoWLMKt/index.m3u8
+2Q,https://video2.51daao.com/btt1/2021/02/20210207/WreGPEg7/index.m3u8
+3Q,https://video2.51daao.com/btt1/2021/02/20210207/TYnvo7Nk/index.m3u8
+4Q,https://video2.51daao.com/btt1/2021/01/20210129/d9ab6For/index.m3u8
+5Q,https://video2.51daao.com/btt1/2021/01/20210129/f5Xha65H/index.m3u8
+6Q,https://video2.51daao.com/btt1/2021/01/20210124/vUoWLMKt/index.m3u8
 福利,https://video2.51daao.com/btt1/2021/01/20210113/EcoYVJiF/index.m3u8
 福利1,https://video2.51daao.com/btt1/2021/02/20210212/JuPFvRYF/index.m3u8
 福利2,https://video2.51daao.com/btt1/2020/12/20201228/6oqS6BLh/index.m3u
