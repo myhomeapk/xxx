@@ -1,5 +1,4 @@
 ﻿央视频道,#genre#
-
 CCTV-1综合,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-1综合,http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8
@@ -86,8 +85,8 @@ CIBN古装剧场,http://211.94.219.178:18080/PLTV/68/224/3221226400/index.m3u8
 CIBN风尚运动,http://211.94.219.178:18080/PLTV/68/224/3221226429/index.m3u8
 CIBN骄阳剧场,http://211.94.219.178:18080/PLTV/68/224/3221226423/index.m3u8
 CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
-卫视频道,#genre#
 
+卫视频道,#genre#
 北京卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225673/index.m3u8
 深圳卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
 湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
@@ -185,6 +184,7 @@ CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 江西卫视,http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 辽宁卫视,http://140.207.241.3:8080/live/program/live/lnwshd/4000000/mnf.m3u8
+
 🇭🇰｜港澳,#genre#
 凤凰电影,mitv://ns2.hellotvvod.com:9906/3741b9ad04b2491c901d3861156e206b
 凤凰香港,mitv://ns2.hellotvvod.com:9906/84546c5f1b7140b79b63ffce337f54e3
@@ -227,6 +227,7 @@ Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
 星空卫视,mitv://ns2.hellotvvod.com:9906/859f6b6d27fd4e44a0c4ab73eed33507
 澳门-MACAU,mitv://ns2.hellotvvod.com:9906/3fbee2e546ef46409ad1318c0a4b6df3
 澳门莲花,mitv://ns2.hellotvvod.com:9906/0d710cc444c14036ac8436a0cec7d670
+
 🇹🇼｜台湾,#genre#
 TVBS,mitv://ns2.hellotvvod.com:9906/bf75d09463834938b1dae6df4ca91276
 TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/9f02ee5bff734cb0b1d96eb3e43606de
@@ -310,6 +311,7 @@ EYE戏剧,mitv://ns2.hellotvvod.com:9906/98676bc0823c421c90184c248fc79a85
 星卫娱乐,mitv://ns2.hellotvvod.com:9906/d24c773470c847a3963860c4d746532b
 国会频道1,mitv://ns2.hellotvvod.com:9906/c8998587a06f4b8682c4751a1dd7e73f
 国会频道2,mitv://ns2.hellotvvod.com:9906/e4ca60a649de42a3a3d104c3be8cfeee
+
 港台电影,#genre#
 天映频道,mitv://ns2.hellotvvod.com:9906/c2b97a1c702f4192aec0fb17ca025b1f
 天映频道,mitv://ns2.hellotvvod.com:9906/c2b97a1c702f4192aec0fb17ca025b1f
@@ -620,7 +622,8 @@ Bloomberg TV,mitv://ns2.hellotvvod.com:9906/2ba5e04abe8a49129be65500c47382eb
 BBC World News,mitv://ns2.hellotvvod.com:9906/f9d4cca357c54df39909ec08dd6e033d
 AXN亚洲,mitv://ns2.hellotvvod.com:9906/942c20e953d6458f920b1a1fd778583b
 Arirang,mitv://ns2.hellotvvod.com:9906/4db6493971844e9ca9efbadf7f0a2ebd
-日　本,#genre#
+
+🇯🇵｜日本,#genre#
 NHK-G综合,mitv://ns2.hellotvvod.com:9906/269e335a327345d28e007c31988cbced
 NHK-E教育,mitv://ns2.hellotvvod.com:9906/58033a59aa6d4d62b2988d002bc31765
 日本テレビ,mitv://ns2.hellotvvod.com:9906/90b79bf966734cc69ad3f0df3f238b21
@@ -662,7 +665,8 @@ Music Japan TV,mitv://ns2.hellotvvod.com:9906/5db3a9cc87ab465ea50ca11be35b5eee
 日テレNEWS 24,mitv://ns2.hellotvvod.com:9906/181807494788442a9ef0c299ea61b75e
 旅チャンネル,mitv://ns2.hellotvvod.com:9906/837159ec47d84e36b5b579342c7a021c
 ファミリー剧场,mitv://ns2.hellotvvod.com:9906/6461e4ff59b8495586c6142978b06405
-韩　国,#genre#
+
+🇰🇷｜韩国,#genre#
 Arirang,mitv://ns2.hellotvvod.com:9906/4db6493971844e9ca9efbadf7f0a2ebd
 KBS1,mitv://ns2.hellotvvod.com:9906/85057442f3184d52bd9530ded9ce78ab
 KBS2,mitv://ns2.hellotvvod.com:9906/7d92ec72b9cd49a98b1d493eb6b0a2eb
@@ -684,6 +688,7 @@ Tooniverse,mitv://ns2.hellotvvod.com:9906/3b4cc8d2adab45f3a3c6c8cd2b53a72a
 SPOTV,mitv://ns2.hellotvvod.com:9906/83a5ba9bfa974b63b69fe16080d7c052
 SPOTV 2,mitv://ns2.hellotvvod.com:9906/90a86f7f3aff4ff8b094b68b02da04a8
 JTBC GOLF,mitv://ns2.hellotvvod.com:9906/ae822dd6331c42b9921b2ab642a880e5
+
 体育频道,#genre#
 CCTV16,mitv://ns2.hellotvvod.com:9906/1a9815efc3e640e8b64304a7ce45b75e
 CCTV5,mitv://ns2.hellotvvod.com:9906/f88e65ea73b44c37bb01349678ca24cb
@@ -1047,7 +1052,8 @@ SWAG騷女友被你落在這了,https://video2.51daao.com/btt1/2020/12/20201205/
 新麻豆傳媒28,https://video2.51daao.com/btt1/2021/04/20210407/TvbgwPO9/index.m3u8
 新麻豆傳媒29,https://video2.51daao.com/btt1/2021/04/20210407/eL5eQ699/index.m3u8
 新麻豆傳媒30,https://video2.51daao.com/btt1/2021/04/20210407/7QoFgxQM/index.m3u8
-新麻豆傳媒32,https://video2.51daao.com/btt1/2021/04/20210407/eN94dLRs/index.m3u8#https://video2.51daao.com/btt1/2021/04/20210407/woKtL2Kr/index.m3u8
+新麻豆傳媒31https://video2.51daao.com/btt1/2021/04/20210407/woKtL2Kr/index.m3u8
+新麻豆傳媒32,https://video2.51daao.com/btt1/2021/04/20210407/eN94dLRs/index.m3u8
 新麻豆傳媒33,https://video2.51daao.com/btt1/2021/04/20210407/AC8T8KAt/index.m3u8
 新麻豆傳媒34,https://video2.51daao.com/btt1/2021/04/20210405/fKvjGfQm/index.m3u8
 新麻豆傳媒35,https://video2.51daao.com/btt1/2021/04/20210405/2ot8Agsq/index.m3u8
@@ -2513,22 +2519,22 @@ Abby Lee Dirty Brasilian Bitch,http://21470.vod.redtraffic.xyz/ph56c8a80797578/p
 Abella Danger and Piper Perri Oiled up threesome,http://11216.vod.redtraffic.xyz/ph5952696caece0/play.m3u8
 Abella Danger Big Wet Perfect Ass Fucked,http://12204.vod.adultiptv.net/ph57c71d4f6baf3/play.m3u8
 ABP-298,http://videocdnbaidu.rhsj520.com/rbny/20180807/cgcly/ABP-298/index.m3u8
-ABP-668c-狂乱大乱交63P 119分！！,http://ginocdn.bybzj.com:8092/zimu/20180101/ABP-668c/650kb/hls/index.m3u8
-ABP-669c-SEX4本番,http://ginocdn.bybzj.com:8092/zimu/20180101/ABP-669c/650kb/hls/index.m3u8
-ABP-680-SEX肉弾戦-瀬名きらり,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-680c/650kb/hls/index.m3u8
-ABP-682-特濃精子集中砲火-愛音まりあ-,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-682c/650kb/hls/index.m3u8
-ABP-683-潮吹吞精-結まきな,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-683c/650kb/hls/index.m3u8
-ABP-684-絶対的鉄板-吉川蓮,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-684c/650kb/hls/index.m3u8
-ABP-685-完全拘束強制-あやみ旬果,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-685c/650kb/hls/index.m3u8
-ABP-686-風俗性感新生-黒川サリナ,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-686c/650kb/hls/index.m3u8
-ABP-687-超高級裏SEX-里美ゆりあ,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-687c/650kb/hls/index.m3u8
-ABP-688-超高級裏隠語SEX-園田みおん,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-688c/650kb/hls/index.m3u8
-ABP-689Ac-単体作品顔射,http://videocdn.quweikm.com:8091/20181001/ABP-689Ac/index.m3u8
-ABP-689Bc-単体作品顔射,http://videocdn.quweikm.com:8091/20181001/ABP-689Bc/index.m3u8
-ABP-692c-愛音まりあ 潮吹-,http://ginocdn.bybzj.com:8091/20180529/xOL7YJoe/index.m3u8
-ABP-697Ac-究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Ac/index.m3u8
-ABP-697Bc-究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Bc/index.m3u8
-ABP-697Cc-究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Cc/index.m3u8
+狂乱大乱交63P 119分！！,http://ginocdn.bybzj.com:8092/zimu/20180101/ABP-668c/650kb/hls/index.m3u8
+SEX4本番,http://ginocdn.bybzj.com:8092/zimu/20180101/ABP-669c/650kb/hls/index.m3u8
+肉弾戦-瀬名きらり,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-680c/650kb/hls/index.m3u8
+特濃精子集中砲火-愛音まりあ-,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-682c/650kb/hls/index.m3u8
+潮吹吞精-結まきな,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-683c/650kb/hls/index.m3u8
+絶対的鉄板-吉川蓮,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-684c/650kb/hls/index.m3u8
+完全拘束強制-あやみ旬果,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-685c/650kb/hls/index.m3u8
+風俗性感新生-黒川サリナ,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-686c/650kb/hls/index.m3u8
+超高級裏SEX-里美ゆりあ,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-687c/650kb/hls/index.m3u8
+超高級裏隠語SEX-園田みおん,http://ginocdn.bybzj.com:8091/zimu/20180520/ABP-688c/650kb/hls/index.m3u8
+単体作品顔射,http://videocdn.quweikm.com:8091/20181001/ABP-689Ac/index.m3u8
+単体作品顔射,http://videocdn.quweikm.com:8091/20181001/ABP-689Bc/index.m3u8
+愛音まりあ 潮吹-,http://ginocdn.bybzj.com:8091/20180529/xOL7YJoe/index.m3u8
+1究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Ac/index.m3u8
+2究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Bc/index.m3u8
+3究極性交,http://videocdn.quweikm.com:8091/20181001/ABP-697Cc/index.m3u8
 ABP-698c-着衣G罩杯天然激乳降臨 園田みおん-,http://ginocdn.bybzj.com:8091/20180529/Uhr7HTwu/index.m3u8
 ABP-699Ac-潮吹単体作品,http://videocdn.quweikm.com:8091/20181001/ABP-699Ac/index.m3u8
 ABP-699Bc-潮吹単体作品,http://videocdn.quweikm.com:8091/20181001/ABP-699Bc/index.m3u8
@@ -2585,15 +2591,15 @@ BF-549c-巨乳単体作品淫乱,http://videocdn.quweikm.com:8091/20181001/BF-54
 BF-551c-誘惑中出傢政婦 篠田ゆう,http://videocdn.hndtl.com:8091/20190401/BF-551c/index.m3u8
 
 7 测试频道_686868,#genre#
-C0930-hitozuma1019 広野鈴菜 Suzuna Hirono,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1019_0/index.m3u8
-C0930-hitozuma1020 人妻斬り 笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1020_0/index.m3u8
-C0930-hitozuma1023 笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1023_0/index.m3u8
-C0930-hitozuma1024 岡島奈穂美 Naomi Okajima,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1024_0/index.m3u8
-C0930-hitozuma1026 山口雪音 Yukine Yamaguchi,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1026_0/index.m3u8
-C0930-hitozuma1035 相馬梢 Kozue Soma,http://videocdn.hndtl.com:8091/20190331/hd_c0930-hitozuma1035/index.m3u8
-C0930-ki150815 人妻斬り 自画撮手淫 特集46 Self Shot,http://videocdn.hndtl.com:8091/20181231/hd_c0930-ki150815/index.m3u8
-C0930-ki170604 片桐舞 26歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170604/index.m3u8
-C0930-ki170704 野田歩 38歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170704/index.m3u8
+広野鈴菜 Suzuna Hirono,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1019_0/index.m3u8
+人妻斬り 笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1020_0/index.m3u8
+笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1023_0/index.m3u8
+岡島奈穂美 Naomi Okajima,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1024_0/index.m3u8
+山口雪音 Yukine Yamaguchi,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1026_0/index.m3u8
+相馬梢 Kozue Soma,http://videocdn.hndtl.com:8091/20190331/hd_c0930-hitozuma1035/index.m3u8
+人妻斬り 自画撮手淫 特集46 Self Shot,http://videocdn.hndtl.com:8091/20181231/hd_c0930-ki150815/index.m3u8
+片桐舞 26歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170604/index.m3u8
+野田歩 38歳,http://videocdn.quweikm.com:8091/20181101/hd_c0930-ki170704/index.m3u8
 Cabbie的FemaleFakeTaxi Redhead Fingerfucked,http://21470.vod.adultiptv.net/ph5706272135a73/play.m3u8
 cadv-679,http://video1.rhsj520.com:8091/nyrm3/zzmmx/cadv-679/1500kb/hls/index.m3u8
 camgirl在現場表演中展示了她的沐浴場面,http://1244.vod.adultiptv.net/ph59a180a4a680f/play.m3u8
@@ -2601,78 +2607,78 @@ Camp Pinewood Sex Goddes Madelein Fake,http://12156.vod.redtraffic.xyz/ph5acce24
 Camster模型Mia Khalifa展示了她的身體和手交技巧,http://12204.vod.adultiptv.net/ph592455115060d/play.m3u8
 CAND-176c-鬱勃起 FX地元の後輩,http://videocdn.hndtl.com:8091/20190131/CAND-176c/index.m3u8
 Candid-Hd-Step Sisters Celebration（完整版）,http://6122.vod.redtraffic.xyz/ph5aa0c150839f9/play.m3u8
-Caribbeancom-053017_437  水谷心音BEST 2,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053017_437/index.m3u8
-Caribbeancom-053117_001 縦型動画 012 ～SSR虎の子の潮吹～ 上原亜衣,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053117_001/index.m3u8
-Caribbeancom-060217_438  恍惚 ～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060217_438/index.m3u8
-Caribbeancom-060317_439 放課後～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060317_439/index.m3u8
-Caribbeancom-060617_440  巨乳浴衣娘 折原ほのか,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060617_440/index.m3u8
-Caribbeancom-060717_001 THE 未公開  双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060717_001/index.m3u8
-Caribbeancom-060917_441 咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060917_441/index.m3u8
-Caribbeancom-061017_442 視界侵入～ 村上涼子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061017_442/index.m3u8
-Caribbeancom-061317_443  極上泡姫物語 Vol.52 真咲アイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061317_443/index.m3u8
-Caribbeancom-061417_444 未公開 ～大失禁～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061417_444/index.m3u8
-Caribbeancom-061617_445  嫌の女顔射 水島にな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061617_445/index.m3u8
-Caribbeancom-061717_446 卑猥 星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061717_446/index.m3u8
-Caribbeancom-062117_448 潮吹～ 白石真琴,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062117_448/index.m3u8
-Caribbeancom-062317_449 ～ 神田るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062317_449/index.m3u8
-Caribbeancom-062417_450  緊縛研究所 ～ 双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062417_450/index.m3u8
-Caribbeancom-062617_451 男按摩,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062617_451/index.m3u8
-Caribbeancom-062917_452  羽田真里BEST,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062917_452/index.m3u8
-Caribbeancom-063017_453  生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-063017_453/index.m3u8
-Caribbeancom-070117_454  木村美羽,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070117_454/index.m3u8
-Caribbeancom-070517_456 熟女の放尿娘～ 北島玲 美涼りな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070517_456/index.m3u8
-Caribbeancom-070717_457  視界侵入！挿入～北川レイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070717_457/index.m3u8
-Caribbeancom-070817_458  真琴りょう,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070817_458/index.m3u8
-Caribbeancom-071117_459 女熱大陸 File.056 米倉のあ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071117_459/index.m3u8
-Caribbeancom-071217_460 我慢大会～七瀬リナ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071217_460/index.m3u8
-Caribbeancom-071317_001  縦型動画 013 ～画面の尻穴陰毛～ 梢あをな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_001/index.m3u8
-Caribbeancom-071317_003 顔面騎乗位～ 観月奏,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_003/index.m3u8
-Caribbeancom-071317_004 下品～ 北島玲,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_004/index.m3u8
-Caribbeancom-071317_005  縦型動画 017 ～小悪魔～ 美月るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_005/index.m3u8
-Caribbeancom-071317_007 経験の女性～ 上条藍,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_007/index.m3u8
-Caribbeancom-071317_008  謎の熟女祥子～ 高嶋祥子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_008/index.m3u8
-Caribbeancom-071317_009 講師～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_009/index.m3u8
-Caribbeancom-071317_010  顔面騎乗位～ 咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_010/index.m3u8
-Caribbeancom-071517_462 女仆  希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071517_462/index.m3u8
-Caribbeancom-071817_463  二輪車冴君麻衣子 上原まさき,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071817_463/index.m3u8
-Caribbeancom-072517_467 下全裸、星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072517_467/index.m3u8
-Caribbeancom-072617_468  未公開 ～原ちとせ 碧木凛 桃井りの 羽多野しずく,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072617_468/index.m3u8
-Caribbeancom-072917_470  黒木澪,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072917_470/index.m3u8
-Caribbeancom-080117_471 魅惑 枢木みかん,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-080117_471/index.m3u8
-Caribbeancom-080417_473 葵千恵 千野くるみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080417_473/index.m3u8
-Caribbeancom-080815_941  放課後発育途上の女子校生～  藤井なな,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-080815_941/index.m3u8
-Caribbeancom-080817_475  極上泡姫物語 Vol.53 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080817_475/index.m3u8
-Caribbeancom-080915-942  M娘覚醒 宮崎愛莉,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-080915-942/index.m3u8
-Caribbeancom-081017_002 卑猥水着講座～ 並木あゆ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_002/index.m3u8
-Caribbeancom-081017_003  君島アンナ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_003/index.m3u8
-Caribbeancom-081017_005  碧しの,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_005/index.m3u8
-Caribbeancom-081017_006 希咲あや 蒼井さくら 真琴りょう,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_006/index.m3u8
-Caribbeancom-081115_944  Debut Vol.23 ～水着Ｈ罩杯～  西条沙羅,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081115_944/index.m3u8
-Caribbeancom-081117_477 超高速生騎乗位～立花瑠莉,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081117_477/index.m3u8
-Caribbeancom-081215_945 幼馴染  舞希香,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081215_945/index.m3u8
-Caribbeancom-081217_478 僕の彼女 北川レイラ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081217_478/index.m3u8
-Caribbeancom-081315_001  THE未公開 ～ 愛沢かりん,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_001/index.m3u8
-Caribbeancom-081315_946  愛沢かりん,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_946/index.m3u8
-Caribbeancom-081415_947  夏の想出 Vol.9  星乃ここみ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081415_947/index.m3u8
-Caribbeancom-081517_479 温泉旅行 逢沢はるか 美月優芽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081517_479/index.m3u8
-Caribbeancom-081615_949  僕の彼女木下寧々,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081615_949/index.m3u8
-Caribbeancom-081617_480 放尿～黒木澪,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081617_480/index.m3u8
-Caribbeancom-081715_950   新山沙弥,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081715_950/index.m3u8
-Caribbeancom-081815_951  松本メイの家事検証,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081815_951/index.m3u8
-Caribbeancom-081917_483  中出3連発 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081917_483/index.m3u8
-Caribbeancom-082015_952 面接素人娘中出  藤井沙紀,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082015_952/index.m3u8
-Caribbeancom-082217_484 僕の彼女白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082217_484/index.m3u8
-Caribbeancom-082315_001 図鑑 松本まりな 萌芭,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082315_001/index.m3u8
-Caribbeancom-082315_955  母本物親子の４P共演,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082315_955/index.m3u8
-Caribbeancom-082317_485  THE 未公開 ～ 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082317_485/index.m3u8
-Caribbeancom-082517_486  米倉のあ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082517_486/index.m3u8
-Caribbeancom-082715_001 図鑑 松本メイ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082715_001/index.m3u8
-Caribbeancom-082815_958 ダイナマイト,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082815_958/index.m3u8
-Caribbeancom-082917_488 恍猛烈交尾～ 如月ジュリ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082917_488/index.m3u8
-Caribbeancom-083017_489  早抜 咲乃柑菜BEST,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083017_489/index.m3u8
-Caribbeancom-083117_490 木村美羽の家撮影 木村美羽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083117_490/index.m3u8
-Caribbeancom-090117_491 令嬢召使 渋谷ひとみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090117_491/index.m3u8
-Caribbeancom-090217_492  北山かんな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090217_492/index.m3u8
+水谷心音BEST 2,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053017_437/index.m3u8
+縦型動画 012 ～SSR虎の子の潮吹～ 上原亜衣,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-053117_001/index.m3u8
+恍惚 ～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060217_438/index.m3u8
+放課後～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060317_439/index.m3u8
+巨乳浴衣娘 折原ほのか,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060617_440/index.m3u8
+THE 未公開  双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060717_001/index.m3u8
+咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-060917_441/index.m3u8
+視界侵入～ 村上涼子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061017_442/index.m3u8
+極上泡姫物語 Vol.52 真咲アイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061317_443/index.m3u8
+未公開 ～大失禁～ 希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061417_444/index.m3u8
+嫌の女顔射 水島にな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061617_445/index.m3u8
+卑猥 星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-061717_446/index.m3u8
+潮吹～ 白石真琴,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062117_448/index.m3u8
+神田るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062317_449/index.m3u8
+緊縛研究所 ～ 双葉みお,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062417_450/index.m3u8
+男按摩,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062617_451/index.m3u8
+羽田真里BEST,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-062917_452/index.m3u8
+生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-063017_453/index.m3u8
+木村美羽,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070117_454/index.m3u8
+熟女の放尿娘～ 北島玲 美涼りな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070517_456/index.m3u8
+視界侵入！挿入～北川レイラ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070717_457/index.m3u8
+真琴りょう,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-070817_458/index.m3u8
+女熱大陸 File.056 米倉のあ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071117_459/index.m3u8
+我慢大会～七瀬リナ,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071217_460/index.m3u8
+縦型動画 013 ～画面の尻穴陰毛～ 梢あをな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_001/index.m3u8
+顔面騎乗位～ 観月奏,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_003/index.m3u8
+下品～ 北島玲,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_004/index.m3u8
+縦型動画 017 ～小悪魔～ 美月るな,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_005/index.m3u8
+経験の女性～ 上条藍,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_007/index.m3u8
+謎の熟女祥子～ 高嶋祥子,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_008/index.m3u8
+講師～ 生島涼,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_009/index.m3u8
+顔面騎乗位～ 咲乃柑菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071317_010/index.m3u8
+女仆  希咲良,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071517_462/index.m3u8
+二輪車冴君麻衣子 上原まさき,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-071817_463/index.m3u8
+下全裸、星咲優菜,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072517_467/index.m3u8
+未公開 ～原ちとせ 碧木凛 桃井りの 羽多野しずく,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072617_468/index.m3u8
+黒木澪,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-072917_470/index.m3u8
+魅惑 枢木みかん,http://videocdn.quweikm.com:8091/20181101/hd_caribbeancom-080117_471/index.m3u8
+葵千恵 千野くるみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080417_473/index.m3u8
+放課後発育途上の女子校生～藤井なな,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-080815_941/index.m3u8
+極上泡姫物語 Vol.53 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-080817_475/index.m3u8
+M娘覚醒 宮崎愛莉,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-080915-942/index.m3u8
+卑猥水着講座～ 並木あゆ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_002/index.m3u8
+君島アンナ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_003/index.m3u8
+碧しの,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_005/index.m3u8
+希咲あや 蒼井さくら 真琴りょう,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081017_006/index.m3u8
+Debut Vol.23 ～水着Ｈ罩杯～  西条沙羅,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081115_944/index.m3u8
+超高速生騎乗位～立花瑠莉,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081117_477/index.m3u8
+幼馴染  舞希香,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081215_945/index.m3u8
+僕の彼女 北川レイラ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081217_478/index.m3u8
+THE未公開 ～ 愛沢かりん,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_001/index.m3u8
+愛沢かりん,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081315_946/index.m3u8
+夏の想出 Vol.9  星乃ここみ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081415_947/index.m3u8
+温泉旅行 逢沢はるか 美月優芽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081517_479/index.m3u8
+僕の彼女木下寧々,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081615_949/index.m3u8
+放尿～黒木澪,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081617_480/index.m3u8
+新山沙弥,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081715_950/index.m3u8
+松本メイの家事検証,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-081815_951/index.m3u8
+中出3連発 水島にな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-081917_483/index.m3u8
+面接素人娘中出  藤井沙紀,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082015_952/index.m3u8
+僕の彼女白石真琴,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082217_484/index.m3u8
+図鑑 松本まりな 萌芭,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082315_001/index.m3u8
+母本物親子の４P共演,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082315_955/index.m3u8
+THE 未公開 ～ 生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082317_485/index.m3u8
+米倉のあ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082517_486/index.m3u8
+図鑑 松本メイ,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082715_001/index.m3u8
+ダイナマイト,http://videocdn.hndtl.com:8091/20181231/hd_caribbeancom-082815_958/index.m3u8
+恍猛烈交尾～ 如月ジュリ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-082917_488/index.m3u8
+早抜 咲乃柑菜BEST,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083017_489/index.m3u8
+木村美羽の家撮影 木村美羽,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-083117_490/index.m3u8
+令嬢召使 渋谷ひとみ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090117_491/index.m3u8
+北山かんな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancom-090217_492/index.m3u8
 Caribbeancom-091615_972 ひばり結羽 極上泡姫物語 Vol.30,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-091615_972/index.m3u8
 Caribbeancom-091915_974  交通機関STOP！帰宅難民！！  松本メイ,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-091915_974/index.m3u8
 Caribbeancom-092015-_975   本多なるみ,http://videocdn.hndtl.com:8091/20190331/hd_caribbeancom-092015-_975/index.m3u8
