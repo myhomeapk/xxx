@@ -185,7 +185,7 @@ CIBN流金岁月,http://211.94.219.178:18080/PLTV/68/224/3221226425/index.m3u8
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 江西卫视,http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 辽宁卫视,http://140.207.241.3:8080/live/program/live/lnwshd/4000000/mnf.m3u8
-港澳频道,#genre#
+🇭🇰｜港澳,#genre#
 凤凰电影,mitv://ns2.hellotvvod.com:9906/3741b9ad04b2491c901d3861156e206b
 凤凰香港,mitv://ns2.hellotvvod.com:9906/84546c5f1b7140b79b63ffce337f54e3
 凤凰中文,mitv://ns2.hellotvvod.com:9906/742622f84f2a4324a2261f55dcc91694
@@ -227,7 +227,7 @@ Thrill,mitv://ns2.hellotvvod.com:9906/93d85cb13ede4f24ab3a4c4269557cde
 星空卫视,mitv://ns2.hellotvvod.com:9906/859f6b6d27fd4e44a0c4ab73eed33507
 澳门-MACAU,mitv://ns2.hellotvvod.com:9906/3fbee2e546ef46409ad1318c0a4b6df3
 澳门莲花,mitv://ns2.hellotvvod.com:9906/0d710cc444c14036ac8436a0cec7d670
-台湾频道,#genre#
+🇹🇼｜台湾,#genre#
 TVBS,mitv://ns2.hellotvvod.com:9906/bf75d09463834938b1dae6df4ca91276
 TVBS欢乐台,mitv://ns2.hellotvvod.com:9906/9f02ee5bff734cb0b1d96eb3e43606de
 TVBS精采台,mitv://ns2.hellotvvod.com:9906/866d1f9c2a3a4f1fae2eeaa4c360dda8
@@ -2584,7 +2584,7 @@ BF-535-V勤務本物-豊田愛菜,http://ginocdn.bybzj.com:8091/zimu/20180520/BF
 BF-549c-巨乳単体作品淫乱,http://videocdn.quweikm.com:8091/20181001/BF-549c/index.m3u8
 BF-551c-誘惑中出傢政婦 篠田ゆう,http://videocdn.hndtl.com:8091/20190401/BF-551c/index.m3u8
 
-7测试频道_686868,#genre#
+7 测试频道_686868,#genre#
 C0930-hitozuma1019 広野鈴菜 Suzuna Hirono,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1019_0/index.m3u8
 C0930-hitozuma1020 人妻斬り 笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1020_0/index.m3u8
 C0930-hitozuma1023 笹原小乃璃 Konori Sasahara,http://videocdn.hndtl.com:8091/20181231/hd_c0930-hitozuma1023_0/index.m3u8
