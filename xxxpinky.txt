@@ -13,12 +13,10 @@ AV2,https://video2.51daao.com/btt1/2020/07/20200727/CSj85kky/index.m3u8
 AV3,https://video2.51daao.com/btt1/2020/10/20201022/wE1lXmMk/index.m3u8
 日韩无码1,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121914-760/index.m3u8
 日韩无码2,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/120614-753/index.m3u8
-日韩无码3,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/091715_154-1pon/index.m3u8
-日韩无码4,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
+日韩无码3,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/1/1bd/081315_133-1pon/index.m3u8
 
 👀欧美直播_6868,#genre#
-EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4003v105.m3u8_zase.jebes.kresnu.mac.tu
-EXTASY,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+
 livecams,http://cdn.adultiptv.net/livecams.m3u8 
 MILF,http://cdn.adultiptv.net/milf.m3u8 
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8 
@@ -94,6 +92,7 @@ Adult IPTV Compilation (18+),http://cdn.adultiptv.net/compilation.m3u8
 Adult IPTV Cuckold (18+),http://cdn.adultiptv.net/cuckold.m3u8
 Adult IPTV Gangbang (18+),http://cdn.adultiptv.net/gangbang.m3u8
 Adult1,http://static.brazzers.com/scenes/4679/180sec.flv
+Adult2,http://static.brazzers.com/scenes/4680/180sec.flv
 Adult10,http://static.brazzers.com/scenes/4569/180sec.flv
 Adult11,http://static.brazzers.com/scenes/4571/180sec.flv
 Adult12,http://static.brazzers.com/scenes/4572/180sec.flv
@@ -104,7 +103,6 @@ Adult16,http://static.brazzers.com/scenes/3542/180sec.flv
 Adult17,http://static.brazzers.com/scenes/4585/180sec.flv
 Adult18,http://static.brazzers.com/scenes/4586/180sec.flv
 Adult19,http://static.brazzers.com/scenes/4587/180sec.flv
-Adult2,http://static.brazzers.com/scenes/4680/180sec.flv
 Adult20,http://static.brazzers.com/scenes/4579/180sec.flv
 Adult21,http://static.brazzers.com/scenes/4580/180sec.flv
 Adult22,http://static.brazzers.com/scenes/4581/180sec.flv
@@ -163,9 +161,6 @@ Cock in their assholes,http://ovhv39.twincdn.com/videos/35/35540/35540_720p.mp4
 CODA: Ребенок глухих родителей,https://hls-hd.kinokrad.co/hlshd/CODA.2021.APTV.WEB-DLRip.1.46Gb.MegaPeer.720p/playlist.m3u8
 Cuckold Husband Eats Creampie,http://13216.vod.redtraffic.xyz/ph573b7c38cf5fc/play.m3u8
 Cute teenie must squirt,http://ovhv39.twincdn.com/videos/5/5845/5845_720p.mp4
-cкрипка и собака Клякса (1974),https://vs12.vcdn.biz/73b88018c54fa442c11616d55cc00136_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18364321/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid765150577-b2000000.m3u8
-Days of Future Past,http://kinoteatr.kg/video1/Filmu/7Xmen%207.Dny%20minuvshix%20let.2014.60fps.mp4
-Dior и я (2014),https://vs17.vcdn.biz/80af9c0b90c4588bac6917401ce8c96c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35342641/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid809200809-b2000000.m3u8
 E8,http://21470.vod.adultiptv.net/ph5bafc8a36abcb/play.m3u8
 FANTHD1,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
 FANTHD2,http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_anikkaalbrite_tiffanyfox/content/vid01.mp4
