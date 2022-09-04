@@ -95,3 +95,20 @@ AV女王HD,P2p://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
 火烈鸟,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
 午夜蓝,P2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
 
+港三_1818,#genre#
+1,https://vip2.fhbf9.com/20210804/LA6xZi6C/index.m3u8
+2,https://vip2.fhbf9.com/20210804/u7OESSzE/index.m3u8
+3,https://vip2.fhbf9.com/20210804/Mgg4sPQ6/index.m3u8
+3,https://vip2.fhbf9.com/20210804/HqLAXCZD/index.m3u8
+4,https://vip2.fhbf9.com/20210804/WjzFihXG/index.m3u8
+5,https://vip2.fhbf9.com/20210804/6MfXmDp0/index.m3u8
+6,https://vip2.fhbf9.com/20210804/oKa5if6u/index.m3u8
+7,https://vip2.fhbf9.com/20210804/C4rSP86S/index.m3u8
+9,https://vip2.fhbf9.com/20210804/kq8zlWOc/index.m3u8
+10,https://vip2.fhbf9.com/20210804/RgIubLMz/index.m3u8
+11,https://vip2.fhbf9.com/20210804/yGZWgJSA/index.m3u8
+12,https://vip2.fhbf9.com/20210804/rMN3N7vN/index.m3u8
+13,https://vip2.fhbf9.com/20210804/0KYPCg9G/index.m3u8
+14,https://vip2.fhbf9.com/20210804/3vgd2X8X/index.m3u8
+
+
