@@ -3146,63 +3146,90 @@ AV女[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145
 #13499,https://vod.mycamtv.net/13499.m3u8
 #13500,https://vod.mycamtv.net/13500.m3u8
 
-源断了💋红唇直播_6868,#genre#
-
+💋红唇直播_1818,#genre#
 彩虹电影,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 彩虹电影,mitv://45.92.126.18:9906/6260e2d0000cf56c172d19afe4aa1d66
 彩虹电影,P2p://ns2.hellotvvod.com:9906/44584f27dd034bc4bd3cb79a81ac16c7
 彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
-惊艳台HD,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台HD,P2p://ns2.hellotvvod.com:9906/eb9593f2dcc049d9b5e2a41b6388bb25
-惊艳台HD,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+
+惊艳台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+惊艳台,P2p://ns2.hellotvvod.com:9906/eb9593f2dcc049d9b5e2a41b6388bb25
+惊艳台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
+
 Pandora HD,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
 Pandora HD,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
-香蕉台1,P2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
-香蕉台2,P2p://ns2.hellotvvod.com:9906/d42872d9b6864cab887a99d0aa46073b
+
 松视1,p2p://54.39.16.152:9906/6260dfaa0008dccc1720cc33ffe57894
+松视1,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
 松视1,P2p://ns2.hellotvvod.com:9906/e35f1130df9b47f386c3c56f3dbfcd03
 松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
+
+松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
 松视2,P2p://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
 松视2,P2p://ns2.hellotvvod.com:9906/6b6784c3820e421cba1e3c48e99960b5
-松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
 松视2,mitv://45.92.126.18:9906/6260dfc1000bd4ed172126cefab5cf1b
 松视2,P2p://fccs.word-tv.com:9906/6260dfc1000bd4ed172126cefab5cf1b
-松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
+
 松视3,p2p://54.39.16.152:9906/6260dfda000d0d16172188c6d4d403c3
 松视3,P2p://ns2.hellotvvod.com:9906/bd093ee0f64f4857b8811bc60e10be0e
 松视3,mitv://45.92.126.18:9906/6260dfda000d0d16172188c6d4d403c3
+
 LOOK,p2p://54.39.16.152:9906/6260e2e2000f16e6172d608b5505fbdd
 LOOK,P2p://fccs.word-tv.com:9906/6260e2e2000f16e6172d608b5505fbdd
 LOOK,P2p://ns2.hellotvvod.com:9906/220b79ae6fb7445880c32d5c7aeecaf3
 LOOK,mitv://45.92.126.18:9906/6260e2e2000f16e6172d608b5505fbdd
 LOOK,P2p://ns2.hellotvvod.com:9906/398e8131562f4e019869097ccf5419fa
-JStar极限台,P2p://ns2.hellotvvod.com:9906/fb9ba07eefeb4914baced5605963b896
-JStar极限台,mitv://45.92.126.18:9906/6260e2b000004933172c99712568d815
-e彩虹,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
-e彩虹,P2p://ns2.hellotvvod.com:9906/27fee1f489c64dfb8a387d2b40163340
-e彩虹,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
+
+JSᴴᴰ極限電影,p2p://fccs.word-tv.com:9906/6260e2b000004933172c99712568d815
+香蕉台🍌Banana,P2p://fccs.word-tv.com:9906/6260e29a0009b4f9172c45ea502a9f98
+
 e彩虹,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
+e彩虹,mitv://45.92.126.18:9906/62668da3000bd6cc134cc0d079365057
+e彩虹,p2p://54.39.16.152:9906/62668da3000bd6cc134cc0d079365057
+
 潘朵啦粉红,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
 潘朵啦粉红,P2p://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
 潘朵啦粉红,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
 潘朵啦粉红,P2p://ns2.hellotvvod.com:9906/b0d4d81f67df4f93a8d6a57f4483db82
+潘朵啦粉红,mitv://fccs.word-tv.com:9906/6260e27a0006cf41172bc82c06b29fb9
+
 潘朵啦玩美,P2p://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
 潘朵啦玩美,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
 潘朵啦玩美,P2p://ns2.hellotvvod.com:9906/011e34da1ad148338c2fe0b80afcb50a
 潘朵啦玩美,P2p://ns2.hellotvvod.com:9906/6af2f80dbd0042d5a9d2cdc2f0dabc32
 潘朵啦玩美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
-潘朵啦玩美,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
+潘朵拉玩美,mitv://fccs.word-tv.com:9906/6260e259000d442b172b48ecdda91b31
+
+Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
 Happy,P2p://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
 Happy,P2p://ns2.hellotvvod.com:9906/194f0acc881446e5832815b8ecc4d267
 Happy,mitv://45.92.126.18:9906/6260e2420001e45e172aec2a005c42e7
-Happy,p2p://54.39.16.152:9906/6260e2420001e45e172aec2a005c42e7
-K,P2p://ns2.hellotvvod.com:9906/c340e017daff4b4eb187110f186216b1
-奶奶按摩店HD,P2p://fccs.word-tv.com:9906/626b73510008edf70c6977f8aa9df6c2
+Happy,mitv://fccs.word-tv.com:9906/6260e2420001e45e172aec2a005c42e7
+
+ＶＥＮＵＳ,P2p://fccs.word-tv.com:9906/626b732f0006b7ce0c68f297c4634035
+ＶＥＮＵＳ,P2p://54.39.16.152:9906/626b732f0006b7ce0c68f297c4634035
 AV女王HD,P2p://fccs.word-tv.com:9906/626b735f000db2ec0c69afe0789a0758
 水多多HD,P2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
 火烈鸟,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
 午夜蓝,P2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
-做爱特训班HD,P2p://fccs.word-tv.com:9906/626b7343000190970c693f6577f8facb
+K频道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
+K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
+K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
+日本映畫,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+
+水多多,P2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
+近親相奸,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
+彩虹通道,P2p://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
+PLAYBOYHD,P2p://54.39.16.152:9906/626b740500067a270c6c3677cce23984
+PLAYBOYHD,P2p://fccs.word-tv.com:9906/626b740500067a270c6c3677cce23984
+KMP頻道,P2p://fccs.word-tv.com:9906/626b7417000ebc0c0c6c7ee48913e1f0
+KMP頻道,P2p://54.39.16.152:9906/626b7417000ebc0c0c6c7ee48913e1f0
+午夜藍,P2p://fccs.word-tv.com:9906/626b7425000e83a70c6cb5863e2179e9
+午夜藍,P2p://54.39.16.152:9906/626b7425000e83a70c6cb5863e2179e9
+大學女援交妹,P2p://fccs.word-tv.com:9906/626b74450000c4030c6d2f0117e32ee4
+大學女援交妹,P2p://54.39.16.152.com:9906/626b74450000c4030c6d2f0117e32ee4
+做愛輸入,P2p://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
+做愛輸入,P2p://54.39.16.152:9906/626b7455000e15fa0c6d70eac57e0110
 
 
 🎸DJ Mix,#genre#
@@ -3364,11 +3391,7 @@ dj《错过不是我的错》,hhttps://vd3.bdstatic.com/mda-na6dv0mi83nwdcj9/sc/
 DJ《舍不得又能怎样呢》,https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4
 情哥哥DJ,https://vd3.bdstatic.com/mda-kjs8ewqz9tidsdjk/v1-cae/hd/mda-kjs8ewqz9tidsdjk.mp4
 精选车载酒吧劲爆中文DJ舞曲,https://vd2.bdstatic.com/mda-nc1dmpzkg7y9k6y1/sc/cae_h264_delogo/1646218423219778510/mda-nc1dmpzkg7y9k6y1.mp4
-伤感情歌DJ《爱错绝情的你》《我只想告诉你》新歌上线,https://vd4.bdstatic.com/mda-nc37edj3rtfxe0dw/720p/h264_delogo/1646371172935157274/mda-nc37edj3rtfxe0dw.mp4
-现场一曲《最美的情缘》DJ版,https://vd3.bdstatic.com/mda-ih4mz2ubqfx9q9gb/sc/mda-ih4mz2ubqfx9q9gb.mp4
-DJ舞曲《闯天涯》,https://vd2.bdstatic.com/mda-mjf3hahmam95yfkd/sc/cae_h264_nowatermark/1634352379471224566/mda-mjf3hahmam95yfkd.mp4
-女孩街头演唱DJ《放不下想又怕》,https://vd2.bdstatic.com/mda-nb8mpxwznwj6s3ps/sc/cae_h264_nowatermark_delogo/1644456565663753843/mda-nb8mpxwznwj6s3ps.mp4
-DJ舞曲《拼命的喝酒拼命的抽烟》,https://vd2.bdstatic.com/mda-nd1n5vscnn77rui2/sc/cae_h264_delogo/1648915878369422268/mda-nd1n5vscnn77rui2.mp4
+
 「精选DJ洗脑神曲」节奏欢快，动感魔性,https://vd2.bdstatic.com/mda-ncsh78jh0xna7ngs/sc/cae_h264_delogo/1648389408244925817/mda-ncsh78jh0xna7ngs.mp4
 最火的5首DJ舞曲,https://vd2.bdstatic.com/mda-mmqfbgzdj99h2g2a/sc/cae_h264_nowatermark/1640431486180468034/mda-mmqfbgzdj99h2g2a.mp4
 情难断,https://vd2.bdstatic.com/mda-nc64m5emhisa13mr/cae_h264_delogo/1646623933147802848/mda-nc64m5emhisa13mr.mp4
@@ -3395,7 +3418,7 @@ MV_Stellar_高清,https://other-web-rh03-sycdn.kuwo.cn/941b035951eba1b686b6e30b6
 DJ《心在跳情在烧》,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4#
 孙艺琪《寂寞的人别听伤感情歌》,https://vd2.bdstatic.com/mda-mdscsws7443npwa8/1080p/cae_h264/1619516504/mda-mdscsws7443npwa8.mp4#
 郭镐鸣《野摩托》,https://vd3.bdstatic.com/mda-mekfm7wu6f4rtt99/1080p/cae_h264/1621595318412084671/mda-mekfm7wu6f4rtt99.mp4#
-赵蕾蕾《寂寞的城伤心的人》,https://vd2.bdstatic.com/mda-mesdm11tdp69a9ye/1080p/cae_h264/1622115758783335310/mda-mesdm11tdp69a9ye.mp4#
+
 DJ版《真的为你哭了》,https://vd2.bdstatic.com/mda-me5chwexudvzcayg/fhd/cae_h264_nowatermark/1620297137821103617/mda-me5chwexudvzcayg.mp4#
 海来阿木《浪子心》DJ沈念版,https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4#
 《人间惊鸿客》,https://vd3.bdstatic.com/mda-mh2bbyjcqjxjhzkd/1080p/cae_h264/1627978577559447916/mda-mh2bbyjcqjxjhzkd.mp4#
