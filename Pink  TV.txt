@@ -141,13 +141,9 @@ Threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 彩虹电影,P2p://ns2.hellotvvod.com:9906/44584f27dd034bc4bd3cb79a81ac16c7
 彩虹电影,p2p://54.39.16.152:9906/6260e2d0000cf56c172d19afe4aa1d66
 
-
-
-惊艳台HD,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台HD,P2p://ns2.hellotvvod.com:9906/eb9593f2dcc049d9b5e2a41b6388bb25
-惊艳台HD,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
-惊艳台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
 惊艳台,p2p://54.39.16.152:9906/6260e27a0006cf41172bc82c06b29fb9
+惊艳台,P2p://ns2.hellotvvod.com:9906/eb9593f2dcc049d9b5e2a41b6388bb25
+惊艳台,mitv://45.92.126.18:9906/6260e27a0006cf41172bc82c06b29fb9
 
 Pandora HD,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
 Pandora HD,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
@@ -156,7 +152,6 @@ Pandora HD,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
 松视1,P2p://fccs.word-tv.com:9906/6260dfaa0008dccc1720cc33ffe57894
 松视1,P2p://ns2.hellotvvod.com:9906/e35f1130df9b47f386c3c56f3dbfcd03
 松视1,mitv://45.92.126.18:9906/6260dfaa0008dccc1720cc33ffe57894
-
 
 松视2,p2p://54.39.16.152:9906/6260dfc1000bd4ed172126cefab5cf1b
 松视2,P2p://fccs.word-tv.com:9906/626b7a25000d82090c842544db6623c5
@@ -210,6 +205,7 @@ K频道,mitv://45.92.126.18:9906/6263c0cd0009e68a085c9c619861891f
 K频道,p2p://54.39.16.152:9906/6263c0cd0009e68a085c9c619861891f
 K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
 日本映畫,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
+
 水多多,P2p://fccs.word-tv.com:9906/626b7384000360cf0c6a3dc4c16ff53b
 近親相奸,P2p://fccs.word-tv.com:9906/626b7397000e653b0c6a8acea1802126
 彩虹通道,P2p://fccs.word-tv.com:9906/626b73a900091c810c6acfc4cd3c8df3
@@ -223,7 +219,6 @@ KMP頻道,P2p://54.39.16.152:9906/626b7417000ebc0c0c6c7ee48913e1f0
 大學女援交妹,P2p://54.39.16.152.com:9906/626b74450000c4030c6d2f0117e32ee4
 做愛輸入,P2p://fccs.word-tv.com:9906/626b7455000e15fa0c6d70eac57e0110
 做愛輸入,P2p://54.39.16.152:9906/626b7455000e15fa0c6d70eac57e0110
-模特,P2p://fccs.word-tv.com:9906/626b73710005a5760c69f42172cb2df4
 
 🎬台湾Swag_1818,#genre#
 Bella性麻豆傳媒影片流出,https://video2.51daao.com/btt1/2020/07/20200705/ZBECSx9p/index.m3u8
@@ -342,7 +337,7 @@ MyCamTVTeenGirls,http://live.mycamtv.com/teen.m3u8
 MyCamTVWhiteGirls,http://live.mycamtv.com/white.m3u8
 MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
 
-🎞【欧美桃色】_1818,#genre#
+🎞欧美桃色_1818,#genre#
 女同性戀瑜伽課,http://6122.vod.redtraffic.xyz/ph5906b6976f9b1/play.m3u8
 硬粗暴的性行為和為壞女孩打屁股,http://60106.vod.redtraffic.xyz/ph573407f33f55b/play.m3u8
 英國成熟,http://13216.vod.adultiptv.net/ph569113e4da15c/play.m3u8
