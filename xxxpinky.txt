@@ -3147,12 +3147,6 @@ AV女[1280*720],https://stream.cdnedge14.live/file/avple-images/hls/60bb5f92c145
 #13500,https://vod.mycamtv.net/13500.m3u8
 
 💋红唇直播_6868,#genre#
-彩虹电影,mitv://ns1.hellotvvod.com:9906/ee5fcef5ca86461587ec2b5c520df9c5
-
-惊艳台,mitv://ns1.hellotvvod.com:9906/a360cae4aeba4053a0ba0d55955ee1e5
-
-Pandora HD,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
-Pandora HD,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
 
 松视1,mitv://ns1.hellotvvod.com:9906/3166a549fbda49d89dd8c403f84a3479
 
@@ -3180,6 +3174,13 @@ Happy,mitv://ns1.hellotvvod.com:9906/fb6d69faa9ee482cb2525df9efd36f68
 K频道,mitv://ns1.hellotvvod.com:9906/31e2eeb87a3946efa30107e79c9f3745
 
 PLAYBOY,mitv://ns1.hellotvvod.com:9906/827d787ee94447a7912d7d4e9c261792
+彩虹电影,mitv://ns1.hellotvvod.com:9906/ee5fcef5ca86461587ec2b5c520df9c5
+
+惊艳台,mitv://ns1.hellotvvod.com:9906/a360cae4aeba4053a0ba0d55955ee1e5
+
+Pandora HD,p2p://54.39.16.152:9906/6260e259000d442b172b48ecdda91b31
+Pandora HD,mitv://45.92.126.18:9906/6260e259000d442b172b48ecdda91b31
+
 
 
 🎸DJ Mix,#genre#
