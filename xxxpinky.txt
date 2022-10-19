@@ -1206,8 +1206,7 @@ IPX-589白峰,http://t6.cdn2020.com:12347/video/m3u8/2021/02/27/adfdb0ab/index.m
 ipx-599天海,http://t6.cdn2020.com:12347/video/m3u8/2021/02/27/5c9a3feb/index.m3u8
 ipx-596枫,http://t6.cdn2020.com:12347/video/m3u8/2021/02/27/255abb48/index.m3u8
 ipx-595加美杏奈,http://t6.cdn2020.com:12347/video/m3u8/2021/02/27/e3cd2710/index.m3u8
-[Group]
-groupName=日本VIP名优 - 02
+
 pred-263香椎花乃,http://t5.cdn2020.com:12346/video/m3u8/2020/11/19/6282cb1b/index.m3u8
 pred-281香椎花乃,http://t6.cdn2020.com:12347/video/m3u8/2021/01/26/1f05c78e/index.m3u8
 pred-183筱田,http://t6.cdn2020.com:12347/video/m3u8/2020/12/30/b2c19bb2/index.m3u8
@@ -2787,79 +2786,19 @@ Asian,http://cdn.adultiptv.net/asian.m3u8
 Shemale,https://www.ast.tv/stream/1/cellular.m3u8
 
 👸 欧美_6868,#genre#
-限制级电影1,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-电影限制级<欧美>A,http://cdn.adultiptv.net/compilation.m3u8?streamType=live
-松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-k频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
-俄罗斯成人1台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-俄罗斯成人2台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-俄罗斯成人3台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-俄罗斯成人4台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-俄罗斯成人5台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-直播 720,http://cdn.adultiptv.net/livecams.m3u8
-肛交 720,http://cdn.adultiptv.net/anal.m3u8
-巨尻 720,http://cdn.adultiptv.net/bigass.m3u8
-大鸟 720,http://cdn.adultiptv.net/bigdick.m3u8
-爆乳 720,http://cdn.adultiptv.net/bigtits.m3u8
-金发 720,http://cdn.adultiptv.net/blonde.m3u8
-口交 720,http://cdn.adultiptv.net/blowjob.m3u8
-褐发 720,http://cdn.adultiptv.net/brunette.m3u8
-合集 720,http://cdn.adultiptv.net/compilation.m3u8
-绿帽 720,http://cdn.adultiptv.net/cuckold.m3u8
-恋物 720,http://cdn.adultiptv.net/fetish.m3u8
-群交 720,http://cdn.adultiptv.net/gangbang.m3u8
-男同 720,http://cdn.adultiptv.net/gay.m3u8
-硬核 720,http://cdn.adultiptv.net/hardcore.m3u8
-异种 720,http://cdn.adultiptv.net/interracial.m3u8
-拉丁 720,http://cdn.adultiptv.net/latina.m3u8
-女同 720,http://cdn.adultiptv.net/lesbian.m3u8
-少妇 720,http://cdn.adultiptv.net/milf.m3u8
-色星 720,http://cdn.adultiptv.net/pornstar.m3u8
-第一视角 720,http://cdn.adultiptv.net/pov.m3u8
-粗暴 720,http://cdn.adultiptv.net/rough.m3u8
-俄罗斯 720,http://cdn.adultiptv.net/russian.m3u8
-少女 720,http://cdn.adultiptv.net/teen.m3u8
-三人 720,http://cdn.adultiptv.net/threesome.m3u8
+jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
+Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
+PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
+PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
+EroxHD,http://94.229.250.73:8008/play/a002
+MiamiTVJennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+MiamiTVLatino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+MiamiTVMéxico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+MiamiTVJennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+RedlightHD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
 
-Dorcel,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/245/index.m3u8
-RedLight,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/242/index.m3u8
-Hustler,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/244/index.m3u8
-21 Sextury,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6164/index.m3u8
-Vivid Red,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/2162/index.m3u8
-Penthouse Gold,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/5011/index.m3u8
-Penthouse Quicker,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/5012/index.m3u8
-Babes tv,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6172/index.m3u8
-Bang Bros,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6173/index.m3u8
-Brazzers.com,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6181/index.m3u8
-Brazzers,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6182/index.m3u8
-Digital Playground,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6196/index.m3u8
-Fake Taxi,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6202/index.m3u8
-JAV,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6225/index.m3u8
-Naughty America,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6237/index.m3u8
-Nubile,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6238/index.m3u8
-Reality King,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6249/index.m3u8
-Wicked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6268/index.m3u8
-XY Max,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6286/index.m3u8
-XY Mix,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6287/index.m3u8
-XY Plus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6288/index.m3u8
-Brazzers Europe,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/910/index.m3u8
-Private,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/243/index.m3u8
-Russia,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/147/index.m3u8
-PrivaTe,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6245/index.m3u8
-Dorcrl Club,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6197/index.m3u8
-Blacked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6178/index.m3u8
-ALBA XXX1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12105/index.m3u8
-ALBA XXX2,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12107/index.m3u8
-Mommy,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12155/index.m3u8
-France Lover,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12124/index.m3u8
-Pure Babes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
-KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
-OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
+
 
 😈测试1_6868,#genre#
 1#,https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
