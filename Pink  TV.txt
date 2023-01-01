@@ -11,19 +11,12 @@
 
 💄红毛直播_1818,#genre#
 
-jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
-Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
-
-PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-PinkoClub,http://93.152.174.144:4000/play/pinkotv/index.m3u8
-PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
-PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
 EroxHD,http://94.229.250.73:8008/play/a002
 MiamiTVJennyLive,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 MiamiTVLatino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 MiamiTVMéxico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 MiamiTVJennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
-RedlightHD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+
 
 
 ♥欧美直播_1818,#genre#
